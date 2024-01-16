@@ -1,3 +1,5 @@
 Vaca
 Oveja
 Cerdo
+León
+Mapache
